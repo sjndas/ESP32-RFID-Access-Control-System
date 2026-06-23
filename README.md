@@ -21,16 +21,18 @@ An RFID-based access control system using ESP32 and RC522 RFID reader. Authorize
 * Arduino IDE
 * MFRC522 Library
 * LiquidCrystal Library
-
-* ## Connection Diagrams
+## Connection Diagrams
 
 ### RC522 to ESP32
+
 ![RC522 Connection](RC522_ESP32_connection.png)
 
 ### LCD to ESP32
+
 ![LCD Connection](lcd_ESP32_connection.png)
 
 ### Relay to ESP32
+
 ![Relay Connection](relay_ESP32_connection.png)
 
 ## Working Demonstration
